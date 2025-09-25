@@ -18,6 +18,7 @@ function handleText(){
       console.log("second", hide,is)
 
     }
+}
 
   return (
     <div className="App" id="main">
