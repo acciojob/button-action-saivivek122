@@ -23,7 +23,7 @@ function handleText(){
     <div className="App" id="main">
       // Do not alter the main div
     <p id="para" className={display}>{}Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
-      <button id="click" onClick={handleText}>Click</button>
+      <button id="click" onClick={handleText}>Button</button>
     </div>
   );
 }
