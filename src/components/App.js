@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import './../styles/App.css';
 
 const App = (props) => {
-  const [display,setDisplay]=useState();
+  const [display,setDisplay]=useState("hide");
 
   function handleText(){
     if(display==="hide"){
